@@ -1,7 +1,26 @@
 aid: fluidly
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fluidly.png
 name: Fluidly
-description: Fluidly is a company surfaced as a portfolio company of anthemis and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Fluidly was a London-based intelligent cashflow forecasting fintech founded in
+  2016 by Caroline Plumb, providing SME cash-flow prediction, scenario planning,
+  and working-capital tools used by roughly 1,300 UK accountancy firms. OakNorth
+  Bank acquired Fluidly in December 2021 and folded the product into its Credit
+  Intelligence Suite; the independent Fluidly brand has since been retired and
+  fluidly.com now redirects to OakNorth's partnerships page. This profile is
+  retained in the API Evangelist network as an acquired-company record — no
+  independent Fluidly developer portal, OpenAPI, or public API surface remains.
 url: https://raw.githubusercontent.com/api-evangelist/fluidly/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +28,34 @@ x-backed-by:
 - anthemis
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: oaknorth
+x-acquired-date: '2021-12-13'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Fintech
+- Cash Flow
+- Cash Flow Forecasting
+- Accounting
+- SME
+- Financial Services
+- United Kingdom
+- Acquired
 apis: []
+common:
+- type: Website
+  url: https://oaknorth.co.uk/partnerships/
+  name: Fluidly (now OakNorth Partnerships)
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
