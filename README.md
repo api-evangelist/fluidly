@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fluidly is a company surfaced as a portfolio company of anthemis and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: anthemis
+Fluidly was a London-based intelligent cashflow forecasting fintech founded in 2016 by Caroline Plumb, providing SME cash-flow prediction, scenario planning, and working-capital tools used by roughly 1,300 UK accountancy firms. OakNorth Bank acquired Fluidly in December 2021 and folded the product into its Credit Intelligence Suite; the independent Fluidly brand has since been retired and fluidly.com now redirects to OakNorth's partnerships page. This profile is retained in the API Evangelist network as an acquired-company record — no independent Fluidly developer portal, OpenAPI, or public API surface remains.
+
+**Areas:** Company · Fintech · Cash Flow · Cash Flow Forecasting · Accounting · Small Business · Financial Services · United Kingdom · Acquired
+
+## Fluidly on APIs.io (historical record)
+
+Everything profiled for Fluidly is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fluidly/](https://apis.io/providers/fluidly/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://oaknorth.co.uk/partnerships/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fluidly: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fluidly/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
